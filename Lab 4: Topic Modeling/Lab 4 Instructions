@@ -1,0 +1,9 @@
+LAB 4: Topic modelingLinks to an external site.
+Use topic models to explore hotel reviews
+
+Objectives:
+
+tokenize with MWEs using spacy
+estimate LDA topic models with tomotopy
+visualize and evaluate topic models
+apply topic models to interpretation of hotel reviews
