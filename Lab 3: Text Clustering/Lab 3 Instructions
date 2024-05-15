@@ -1,0 +1,10 @@
+LAB 3: Text clustering
+Generate and interpret document and term clusters from hotel reviews
+
+Objectives:
+
+work with sklearn components
+construct document-term and term-document matrices
+apply dimensionality reduction
+perform cluster analysis on document and term collections
+interpret results
