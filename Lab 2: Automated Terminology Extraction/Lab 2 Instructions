@@ -1,0 +1,9 @@
+LAB 2: Automated Terminology Extraction
+Generate word clouds for good and bad hotel reviews
+
+Objectives:
+
+part of speech tagging with spacyLinks to an external site.
+extract phrases that match a part of speech pattern
+scale processing pipeline with nlp.pipe
+compute c-values
